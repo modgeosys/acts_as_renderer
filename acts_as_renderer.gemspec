@@ -16,7 +16,7 @@ Gem::Specification.new do |s|
      "Rakefile",
      "VERSION",
      "acts_as_renderer.gemspec",
-     "init.rb",
+     "lib/acts_as_renderer.rb",
      "lib/active_record/acts/renderer.rb",
      "pkg/acts_as_renderer-1.2.0.gem",
      "test/class.erb",
