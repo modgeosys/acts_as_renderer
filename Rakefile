@@ -5,7 +5,7 @@ begin
   require 'jeweler'
   Jeweler::Tasks.new do |gem|
     gem.name = "acts_as_renderer"
-    gem.summary = %Q{TODO}
+    gem.summary = "Gemification of acts_as_renderer plugin"
     gem.email = "kweller@asapwebsoft.com"
     gem.homepage = "http://github.com/asapnet/acts_as_renderer"
     gem.authors = ["Kevin Weller"]

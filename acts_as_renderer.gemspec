@@ -27,7 +27,7 @@ Gem::Specification.new do |s|
   s.rdoc_options = ["--charset=UTF-8"]
   s.require_paths = ["lib"]
   s.rubygems_version = %q{1.3.3}
-  s.summary = %q{TODO}
+  s.summary = "Gemification of acts_as_renderer plugin"
   s.test_files = [
     "test/renderer_test.rb"
   ]
