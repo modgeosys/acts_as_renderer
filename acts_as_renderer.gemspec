@@ -5,7 +5,7 @@ Gem::Specification.new do |s|
   s.version = "1.3.0"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
-  s.authors = ["Kevin Weller"]
+  s.authors = ["David Troy", "Kevin Weller"]
   s.date = %q{2009-06-10}
   s.email = %q{kweller@asapwebsoft.com}
   s.extra_rdoc_files = [
