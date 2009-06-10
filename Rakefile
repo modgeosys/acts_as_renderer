@@ -8,7 +8,7 @@ begin
     gem.summary = "Gemification of acts_as_renderer plugin"
     gem.email = "kweller@asapwebsoft.com"
     gem.homepage = "http://github.com/asapnet/acts_as_renderer"
-    gem.authors = ["Kevin Weller"]
+    gem.authors = ["David Troy", "Kevin Weller"]
     # gem is a Gem::Specification... see http://www.rubygems.org/read/chapter/20 for additional settings
   end
 rescue LoadError
