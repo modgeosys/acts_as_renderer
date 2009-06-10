@@ -1,0 +1,1 @@
+lib/acts_as_renderer.rb
