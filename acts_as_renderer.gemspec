@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |s|
   s.name = %q{acts_as_renderer}
-  s.version = "1.2.0"
+  s.version = "1.3.0"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Kevin Weller"]
@@ -18,7 +18,7 @@ Gem::Specification.new do |s|
      "acts_as_renderer.gemspec",
      "lib/acts_as_renderer.rb",
      "lib/active_record/acts/renderer.rb",
-     "pkg/acts_as_renderer-1.2.0.gem",
+     "pkg/acts_as_renderer-1.3.0.gem",
      "test/class.erb",
      "test/instance.erb",
      "test/renderer_test.rb"
@@ -36,7 +36,7 @@ Gem::Specification.new do |s|
     current_version = Gem::Specification::CURRENT_SPECIFICATION_VERSION
     s.specification_version = 3
 
-    if Gem::Version.new(Gem::RubyGemsVersion) >= Gem::Version.new('1.2.0') then
+    if Gem::Version.new(Gem::RubyGemsVersion) >= Gem::Version.new('1.3.0') then
     else
     end
   else
